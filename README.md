@@ -5,7 +5,9 @@ In order to find the best fit for a perspective owner, I explored information su
 The dog breeds availavle are whippet, terrier, shihtzu, pitbull, rottweiler, poodle, chihuahua, and greyhound. 
 
 I used an ANOVA function to compare weights between the whippets, terriers and pitbulls. I then used a Tukey's Range Test to find which pair hard the significant difference. <br>
-/Users/leahhasse/Desktop/Screen Shot 2019-03-24 at 9.17.19 PM.png 
+
+/Users/leahhasse/Desktop/Screen Shot 2019-03-24 at 9.17.19 PM.png
+
 <br>
 I also created a Chi Square contingency table and performed a Chi Square test to compare colors between whippets and shihtzus. Because the pvalue of the test was less than .05, I was able to determine that there is a signifiant difference between pooble and shihtzu colors. 
 <br>
