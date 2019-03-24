@@ -51,3 +51,5 @@ print(color_table)
 #Chi Square test
 _, color_pval, _, _ = chi2_contingency(color_table)
 print(color_pval)
+
+#because pval is less than .05, you can see that there is a signifiant difference between pooble and shihtzu colors
